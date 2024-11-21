@@ -34,14 +34,14 @@
 }
 
 .footer .social-icons a {
-    color: #00abf0;
+    color: #f3ac09;
     font-size: 1.5rem;
     text-decoration: none;
     transition: color 0.3s ease-in-out;
 }
 
 .footer .social-icons a:hover {
-    color: #f3ac09;
+    color: #976f10;
 }
 
 .footer .up-arrow a {
@@ -52,7 +52,7 @@
 }
 
 .footer .up-arrow a:hover {
-    color: #ffffff;
+    color: #976f10;
 }
 
 .footer p {

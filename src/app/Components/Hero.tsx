@@ -1,8 +1,10 @@
 import Image from 'next/image';
 import "../styles/hero.css";
 
+
 const Hero = () => {
   return (
+    <div>
     <div className="hero-section">
  
       <div className="hero-text">
@@ -18,7 +20,11 @@ const Hero = () => {
       <div className="hero-image">
         <Image src="/1.png" alt="Jawaid Ali" width={500} height={500} />
       </div>
+      
     </div>
+    
+    </div>
+    
   );
 };
 

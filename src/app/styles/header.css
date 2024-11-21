@@ -36,6 +36,7 @@
     flex-wrap: wrap; 
   }
   
+  
   .nav-item {
     font-size: 1.1rem;
     font-weight: 500; 
@@ -63,7 +64,7 @@
     }
   
     .nav-item {
-      font-size: 0.8rem; 
+      font-size: 0.9rem; 
     }
   }
   
@@ -84,7 +85,7 @@
     }
   
     .nav-item {
-      font-size: 0.7rem; 
+      font-size: 0.9rem; 
     }
   }
   

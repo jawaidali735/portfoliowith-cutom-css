@@ -68,9 +68,10 @@
         flex-direction: column;
         text-align: center;
         padding: 20px;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 50px;
+        padding-right: 50px;
         padding-top: 300px;
+        gap: 0px;
        
     }
 
@@ -90,7 +91,7 @@
         width: 200px;
         height: 200px;
         margin-top: 20px;
-        display: none; /* Hide the image on smaller screens */
+        display: none; 
     }
 }
 
@@ -106,6 +107,6 @@
     .hero-image img {
         width: 150px;
         height: 150px;
-        display: none; /* Hide the image on smaller screens */
+        display: none; 
     }
 }
